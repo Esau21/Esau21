@@ -40,6 +40,6 @@ Enfocado en procesamiento de grandes volúmenes de datos, optimización de rendi
 
 ### Estadísticas de GitHub
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Esau21&show_icons=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Esau21&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
 </div>
