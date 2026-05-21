@@ -14,7 +14,11 @@ Focused on high-volume data processing, performance optimization and enterprise 
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,git,linux,nginx,apache,bootstrap" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,git,linux,nginx,bootstrap" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Apache-Server-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
 </div>
 
