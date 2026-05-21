@@ -5,16 +5,16 @@
 Backend Developer
 
 <p>
-Specialized in Laravel, PHP, MySQL and high-volume data processing.
+Specialized in Laravel, PHP, MySQL, PostgreSQL and scalable backend solutions.
 </p>
 
 <p>
-Building scalable administrative systems, optimized imports/exports and performant backend solutions.
+Focused on high-volume data processing, performance optimization and enterprise systems.
 </p>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,git,linux,bootstrap" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,js,git,linux,nginx,apache,bootstrap" />
 
 </div>
 
@@ -28,6 +28,7 @@ Building scalable administrative systems, optimized imports/exports and performa
 - Excel/CSV imports & exports
 - Performance and memory optimization
 - REST API development
+- Server configuration with Nginx & Apache
 
 ---
 
