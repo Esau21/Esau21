@@ -1,62 +1,40 @@
-# Hola 👋 Soy Edgar
+<div align="center">
 
-## 💻 Backend Developer
+# Edgar
 
-Desarrollador enfocado en construcción y optimización de sistemas empresariales usando Laravel, PHP y MySQL.
+Backend Developer
 
-Tengo experiencia trabajando con:
-- Procesamiento masivo de datos
-- Optimización de consultas SQL
-- Importaciones y exportaciones Excel/CSV
-- Sistemas administrativos
-- APIs REST
-- Optimización de memoria y rendimiento
-- Validaciones y automatización de procesos
+<p>
+Specialized in Laravel, PHP, MySQL and high-volume data processing.
+</p>
 
----
+<p>
+Building scalable administrative systems, optimized imports/exports and performant backend solutions.
+</p>
 
-## 🚀 Tecnologías y herramientas
+<br>
 
-### Backend
-- PHP
-- Laravel
-- MySQL
-- REST APIs
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,git,linux,bootstrap" />
 
-### Frontend
-- JavaScript
-- Bootstrap
-- HTML/CSS
-
-### Herramientas
-- Git & GitHub
-- Linux
-- Composer
-- PhpSpreadsheet
-- Laravel Excel
+</div>
 
 ---
 
-## 📌 Experiencia técnica
+## Experience
 
-- Optimización de importaciones
-- Exportaciones Excel de gran volumen
-- Implementación de chunk reading y batch insert
-- Manejo avanzado de logs y debugging
-- Desarrollo de sistemas  administrativos
-
----
-
-## 📂 Proyectos destacados
-
-### CMDB ITIL Inventario
-Sistema de inventario y mantenimiento desarrollado en Laravel.
-
-### SNIEES
-Sistema de validación y procesamiento de matrices académicas.
+- Backend development with Laravel
+- SQL query optimization
+- High-volume data processing
+- Excel/CSV imports & exports
+- Performance and memory optimization
+- REST API development
 
 ---
 
-## 📫 Contacto
+<div align="center">
 
-- GitHub: https://github.com/Esau21
+### GitHub Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Esau21&show_icons=true" />
+
+</div>
