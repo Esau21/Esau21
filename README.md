@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hola 👋 Soy Edgar
 
-<!--
-**Esau21/Esau21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Desarrollador backend enfocado en Laravel, PHP y MySQL.
 
-Here are some ideas to get you started:
+Actualmente trabajo en:
+- Sistemas administrativos
+- Optimización de importaciones/exportaciones Excel
+- Procesamiento masivo de datos
+- APIs y reportes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tecnologías
+
+- Laravel
+- PHP
+- MySQL
+- JavaScript
+- Bootstrap
+- Git
+
+---
+
+## 📌 Proyectos destacados
+
+### CMDB ITIL Inventario
+Sistema de inventario y mantenimiento desarrollado en Laravel.
+
+### SNIEES
+Sistema de procesamiento y validación de matrices académicas.
+
+### Optimización Excel
+Importaciones y exportaciones de más de 100k registros usando chunking y batch insert.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/Esau21
