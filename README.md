@@ -1,7 +1,7 @@
 # Hola 👋 Soy Edgar
 
 ## 🚀 Sobre mí
-Desarrollador backend enfocado en Laravel, PHP y MySQL.
+Desarrollador backend enfocado en Laravel, PHP.
 
 Actualmente trabajo en:
 - Sistemas administrativos
