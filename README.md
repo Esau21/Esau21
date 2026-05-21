@@ -1,6 +1,6 @@
 <div align="center">
 
-# Edgar
+# Hola soy, Edgar
 
 Backend Developer
 
