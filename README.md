@@ -2,14 +2,14 @@
 
 # Hola soy, Edgar
 
-Backend Developer
+Desarrollador Backend
 
 <p>
-Specialized in Laravel, PHP, MySQL, PostgreSQL and scalable backend solutions.
+Especializado en Laravel, PHP, MySQL, PostgreSQL y soluciones backend escalables.
 </p>
 
 <p>
-Focused on high-volume data processing, performance optimization and enterprise systems.
+Enfocado en procesamiento de grandes volúmenes de datos, optimización de rendimiento y sistemas empresariales.
 </p>
 
 <br>
@@ -24,21 +24,21 @@ Focused on high-volume data processing, performance optimization and enterprise 
 
 ---
 
-## Experience
+## Experiencia
 
-- Backend development with Laravel
-- SQL query optimization
-- High-volume data processing
-- Excel/CSV imports & exports
-- Performance and memory optimization
-- REST API development
-- Server configuration with Nginx & Apache
+- Desarrollo backend con Laravel
+- Optimización de consultas SQL
+- Procesamiento masivo de datos
+- Importaciones y exportaciones Excel/CSV
+- Optimización de memoria y rendimiento
+- Desarrollo de APIs REST
+- Configuración de servidores con Nginx y Apache
 
 ---
 
 <div align="center">
 
-### GitHub Stats
+### Estadísticas de GitHub
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Esau21&show_icons=true" />
 
